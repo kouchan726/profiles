@@ -106,6 +106,13 @@ body {
   .section3 .text {
     line-height: 1.5;
   }
+  .section3 a {
+    color: aqua;
+    padding: 5px 0;
+  }
+  .section3 a:hover{
+  color: blueviolet;
+  }
   
   footer {
     background-color: #ffffff;
